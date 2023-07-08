@@ -50,7 +50,7 @@ p {
 	padding: 10px 30px;
 	color: white;
 	background-color: transparent;
-	border: 2px solid rgb(37, 150, 190);
+	border: 2px solid rgb(185, 21, 21);
 	font-size: 2rem;
 	text-transform: uppercase;
 	letter-spacing: 0.1rem;
@@ -60,7 +60,7 @@ p {
 }
 .cta:hover {
 	color: white;
-	background-color: rgb(37, 150, 190);
+	background-color: rgb(200, 36, 36);
 }
 .brand h1 {
 	font-size: 3rem;
@@ -68,7 +68,7 @@ p {
 	color: white;
 }
 .brand h1 span {
-	color: rgb(37, 150, 190);
+	color: rgb(26, 184, 55);
 }
 
 /* Header section */
@@ -83,7 +83,7 @@ p {
 #header .header {
 	min-height: 8vh;
 	/* background-color: rgba(31, 30, 30, 0.24);*/
-	background-color: rgb(37, 150, 190);
+	background-color: rgb(192, 198, 33);
 	transition: 0.3s ease background-color;
 }
 #header .nav-bar {
@@ -98,7 +98,7 @@ p {
 #header .nav-list ul {
 	list-style: none;
 	position: absolute;
-	background-color: rgb(37, 150, 190);
+	background-color: rgb(129, 45, 202);
 	width: 100vw;
 	height: 100vh;
 	left: 100%;
@@ -251,7 +251,7 @@ p {
 	left: 0;
 	height: 100%;
 	width: 0;
-	background-color: rgb(37, 150, 190);
+	background-color: rgb(160, 111, 156);
 	animation: text_reveal_box 1s ease;
 	animation-delay: 0.5s;
 }
