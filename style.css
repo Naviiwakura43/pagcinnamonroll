@@ -11,6 +11,7 @@ html {
 }
 a {
 	text-decoration: none;
+	cursor: url(img/cursor1.ani)
 }
 .container {
 	min-height: 100vh;
