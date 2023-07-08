@@ -3,6 +3,7 @@
 	padding: 0;
 	margin: 0;
 	box-sizing: border-box;
+	cursor: url(img/Cursor.png), auto;
 }
 html {
 	font-size: 10px;
@@ -11,7 +12,7 @@ html {
 }
 a {
 	text-decoration: none;
-	cursor: url(img/cursor1.ani)
+	cursor: url(img/Cursor2.png), auto;
 }
 .container {
 	min-height: 100vh;
